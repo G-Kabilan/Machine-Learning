@@ -12,3 +12,8 @@ The objective of this project is to develop a predictive machine learning model 
 - Socio-Economic Insights: Analyzing the relationships between demographic/employment features and income, and drawing conclusions that can inform socio-economic policies and research.
 
 - Visualization and Reporting: Creating visual representations of the data and results to communicate findings effectively.
+
+### SNAPSHOT OF VISUAL ANALYSIS
+
+![image](https://github.com/G-Kabilan/Machine-Learning/assets/148671435/cdadc01c-21ac-437a-9cd5-6c3aad8edfca)
+
